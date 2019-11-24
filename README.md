@@ -1,14 +1,14 @@
-# NeoNetspherePirates (season 3+)
-Experimental S4 League server emulator for S4 2012+.
+# NeoNetspherePirates (season 2+)
+Experimental S4 League server emulator for S4 2011+.
 
 ### Working seasons
-3, 4, 5, 6, 7, 8, 9, 10, S4League 2017, S4League 2018 & S4League 2019
+2-10.2 and S4League 2017-2019, support for S4 2020+ dropped
 
 ### Working regions
-EU, KR, PH, SA
+EU, KR, PH, SA and JP
 
 ### Note
 This Repo is private
 
 ### Url
-https://gitlab.com/EngineLessCC/NeoNetspherePirates
+https://gitlab.com/EngineLessCC/NeoNetsphereEmu
